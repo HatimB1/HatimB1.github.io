@@ -5,7 +5,7 @@ Welcome to my personal website repository! This site showcases my academic and p
 
 
 ## Overview
-I am an ambitious science student with interests in Electrical Engineering, Electrodynamics, Wave-Matter Interaction, and Modern Physics. Check out the full overview on the [website](#).
+I am a student with interests in Electrical Engineering, Electrodynamics, Wave-Matter Interaction, and Modern Physics. Check out the full overview on the [website](#).
 
 ## Key Sections
 - **Resume**: Download my CV [here](Hatim_CV.pdf). Includes education, experience, awards, and skills.
